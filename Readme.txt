@@ -5,4 +5,4 @@ Merge use frommaster
 from fenzhi2
 from bugfenzhi1
 from server
-from server2
+use from master
